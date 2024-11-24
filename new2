@@ -425,7 +425,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title="IPTV Raka Wicaksono Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
  
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/aqb7snrx7sg3862/realmadridtv.png" group-title="Sports",Real Madrid TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/aqb7snrx7sg3862/realmadridtv.png" group-title="IPTV Raka Wicaksono Sports",Real Madrid TV
 https://rmtv-canela.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/dgiriynskk6252f/tennischannel.png" group-title="IPTV Raka Wicaksono Sports", TENNIS CHANNEL HD
@@ -437,7 +437,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="https://dl.dropboxusercontent.com/s/1h9ie8d4mazxcvy/redbulltv.png" group-title="IPTV Raka Wicaksono Sports",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
  
-#EXTINF:-1 group-title="IPTV Raka Wicaksono Sportss" tvg-logo="https://dl.dropboxusercontent.com/s/ogtqa4dhapw24gv/nbatv.png", NBA TV Indikos
+#EXTINF:-1 group-title="IPTV Raka Wicaksono Sports" tvg-logo="https://dl.dropboxusercontent.com/s/ogtqa4dhapw24gv/nbatv.png", NBA TV Indikos
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
@@ -527,8 +527,145 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 #http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162138
 http://xtv.ooo:8080/0966717777/0966717777/350972
 
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/b5jnn0j8lk9lo9w/truepremierfootball1.png" group-title="IPTV Raka Wicaksono Sports",True Premiere 1 FHD
+https://edge1.laotv.la/live/TSport1/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3fh3h16lgp0835m/truepremierfootball2.png" group-title="IPTV Raka Wicaksono Sports",True Premiere 2 FHD
+https://edge1.laotv.la/live/TSport2/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/b5jnn0j8lk9lo9w/truepremierfootball1.png" group-title="IPTV Raka Wicaksono Sports",True Premiere 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3fh3h16lgp0835m/truepremierfootball2.png" group-title="IPTV Raka Wicaksono Sports",True Premiere 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/r83u0ga13f4ajpa/truepremierfootball3.png" group-title="IPTV Raka Wicaksono Sports",True Premiere 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/j4qaqxhnqwijf63/truepremierfootball4.png" group-title="IPTV Raka Wicaksono Sports",True Premiere 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/pcqvszx59tu0xg9/truepremierfootball5.png" group-title="IPTV Raka Wicaksono Sports", True Premiere 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
+ 
 
+ 
+ 
+#EXTINF:-1 group-title="IPTV Raka Wicaksono Sports" tvg-id="truesports1.th" tvg-logo="https://dl.dropboxusercontent.com/s/3ypeowly0e6zqdb/truesports1.png",True Sports 1
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://sport.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV Raka Wicaksono Sports" tvg-id="truesports2.th" tvg-logo="https://dl.dropboxusercontent.com/s/fv8l24cb1ihz689/truesports2.png",True Sports 2
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV Raka Wicaksono Sports" tvg-id="truesports3.th" tvg-logo="https://dl.dropboxusercontent.com/s/r46cvbq6oia3dea/truesports3.png",True Sports 3
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
 
+  
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ssdfduuehudz58x/tsn.png" group-title="IPTV Raka Wicaksono Sports", TSN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
+https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ssdfduuehudz58x/tsn.png" group-title="IPTV Raka Wicaksono Sports", TSN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
+https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ssdfduuehudz58x/tsn.png" group-title="IPTV Raka Wicaksono Sports", TSN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
+https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ssdfduuehudz58x/tsn.png" group-title="IPTV Raka Wicaksono Sports", TSN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
+https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.1190711!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn.jpg" group-title="IPTV Raka Wicaksono Sports", TSN 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
+https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/b5jnn0j8lk9lo9w/truepremierfootball1.png" group-title="IPTV Raka Wicaksono Sports",True Premiere 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3fh3h16lgp0835m/truepremierfootball2.png" group-title="IPTV Raka Wicaksono Sports",True Premiere 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/r83u0ga13f4ajpa/truepremierfootball3.png" group-title="IPTV Raka Wicaksono Sports",True Premiere 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/j4qaqxhnqwijf63/truepremierfootball4.png" group-title="IPTV Raka Wicaksono Sports",True Premiere 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+#https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/pcqvszx59tu0xg9/truepremierfootball5.png" group-title="IPTV Raka Wicaksono Sports", True Premiere 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9px9kvnxtru1w5p/tntsports.png" group-title="IPTV Raka Wicaksono Sports",TNT Sports
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9px9kvnxtru1w5p/tntsports.png" group-title="IPTV Raka Wicaksono Sports",TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9px9kvnxtru1w5p/tntsports.png" group-title="IPTV Raka Wicaksono Sports",TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9px9kvnxtru1w5p/tntsports.png" group-title="IPTV Raka Wicaksono Sports",TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9px9kvnxtru1w5p/tntsports.png" group-title="IPTV Raka Wicaksono Sports",TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/ssdfduuehudz58x/tsn.png" group-title="IPTV Raka Wicaksono Sports",TSN 1
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/ssdfduuehudz58x/tsn.png" group-title="IPTV Raka Wicaksono Sports",TSN 2
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/ssdfduuehudz58x/tsn.png" group-title="IPTV Raka Wicaksono Sports",TSN 3
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/ssdfduuehudz58x/tsn.png" group-title="IPTV Raka Wicaksono Sports",TSN 4
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/ssdfduuehudz58x/tsn.png" group-title="IPTV Raka Wicaksono Sports",TSN 5
+ 
+#EXTINF:-1 group-title="IPTV Raka Wicaksono Sports" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png",ESPN 1
+http://assista.pro:80/0333686557/Vilamariante1/134014
+ 
+#EXTINF:-1 group-title="IPTV Raka Wicaksono Sports" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png",ESPN 2 
+http://assista.pro:80/0333686557/Vilamariante1/134019
+ 
+#EXTINF:-1 group-title="IPTV Raka Wicaksono Sports" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png",ESPN 3
+http://assista.pro:80/0333686557/Vilamariante1/134025
+ 
+#EXTINF:-1 group-title="IPTV Raka Wicaksono Sports" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png",ESPN 4
+http://assista.pro:80/0333686557/Vilamariante1/134033
+ 
 
 
 <============================ IPTV Raka WIcaksono LIGA EROPA ============================>
@@ -659,4 +796,26 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="IPTV Raka Wicaksono HBO FMX",Cinemax
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/Cinemax.m3u8
+
+<======================= IPTV Raka Wicaksono Music ==========================>
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png" group-title="IPTV Raka Wicaksono Music",Music TV
+https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/681901f0/400d_r32.jpg" group-title="IPTV Raka Wicaksono Music",MTV Live HD
+https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="MTV90s" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/a8d4099d/7ed4_r32.jpg" group-title="IPTV Raka Wicaksono Music",MTV 90's
+https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Stingray_Djazz.png" group-title="IPTV Raka Wicaksono Music",Stingray Jazz
+https://github.com/mimipipi22/lalajo/raw/main/stingrayjazz.m3u8
+
+
 
