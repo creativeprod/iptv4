@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://drive.google.com/file/d/1bnnBoQgm3xfuAYbsz5YelnEg0k3u83kY/view?usp=drive_link", RCTI
+#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://www.dropbox.com/scl/fi/7revwjl2qoyhvz5gxf50y/RCTI.png?rlkey=2usr38lbjande9m3d48yu3ier&st=2h3xzjpc&dl=0", RCTI
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -16,38 +16,26 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://drive.google.com/file/d/10n1AsAaxpAwl9CtsyRc2n4ffTyKoOXLy/view?usp=drive_link", GTV
+#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://www.dropbox.com/scl/fi/np0af31a48suupm3xd4ro/MNCTV.png?rlkey=cteh448by1rxne24fxh9gc8y3&st=28zmryme&dl=0", GTV
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://drive.google.com/file/d/1-qtOAd1Yhfh4uhfbMJkpnA9L2v4gyIxy/view?usp=drive_link", JakTV
-https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://drive.google.com/file/d/1ReeF59jwJKo4EuCGszsKT3yOddUsTRhR/view?usp=drive_link", TRANS 7
+#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://www.dropbox.com/scl/fi/ezthule4333hbup27le3p/T7.png?rlkey=pnyig52ihp46uh9jevrsdma6b&st=xbcev7ew&dl=0", TRANS 7
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://dl.dropboxusercontent.com/s/omsox8tmmfq6jwb/daaitv.png", DAAI TV
-https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://drive.google.com/file/d/1wUueYhTKvUV4g_2lZd-1yAja_b_lbMJz/view?usp=drive_link", RTV
+#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://www.dropbox.com/scl/fi/mpm7gexoxrf9yjlakccq8/RTV.png?rlkey=z6bsn1ab59f6gi8kycz7gbxir&st=4529l4oz&dl=0", RTV
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://drive.google.com/file/d/1zzkyTAEBl-7B4FKFjJsTbfbK_ex5YRE9/view?usp=drive_link", INEWS
+#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://www.dropbox.com/scl/fi/6ugqrcokk8dm1jiqvevai/INEWS.png?rlkey=zoocwiuuvi7lbvj01mbsmnf40&st=a8wcdswc&dl=0", INEWS
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -55,12 +43,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="IPTV Raka WIcaksono ch 1" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="IPTV Raka WIcaksono ch 1" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.dropbox.com/scl/fi/rkb8xf1sndlohjgi62c1q/TVONE.png?rlkey=5ixcdxwxa7qd4dp0skwpad45y&st=5eevo60f&dl=0",TVOne
 https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="IPTV Raka WIcaksono ch 1" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://drive.google.com/file/d/1OqRam5fTvQ1hGYcw_6qQYgrFnuuJIE2P/view?usp=drive_link",TVOne (INDIHOME)
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="IPTV Raka WIcaksono ch 1" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.dropbox.com/scl/fi/rkb8xf1sndlohjgi62c1q/TVONE.png?rlkey=5ixcdxwxa7qd4dp0skwpad45y&st=5eevo60f&dl=0",TVOne (INDIHOME)
 #EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
 https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/tvone-avc1_1500000=6-mp4a_96000=5.m3u8
 
@@ -74,14 +62,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://drive.google.com/file/d/1fg6mnXq_dOK-M8tVshViiVHSukGG-cwY/view?usp=drive_link", Metro TV
+#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://www.dropbox.com/scl/fi/71yam6tj2oah40tf46mmw/METRO.png?rlkey=j03tfa057vpgowtlbdym29elg&st=execu4co&dl=0", Metro TV
 https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://drive.google.com/file/d/1lT3v0zhT8tteWFVJxSESHvxp_0B6mmPu/view?usp=drive_link",Trans TV
+#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://www.dropbox.com/scl/fi/f6sh3ptldp11x7zk2qb19/TRANS-TV.png?rlkey=pdvs94c88palztcamo01why8i&st=tpi8kfqo&dl=0",Trans TV
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1lT3v0zhT8tteWFVJxSESHvxp_0B6mmPu/view?usp=drive_link" group-title="IPTV Raka WIcaksono ch 1",SCTV alt
@@ -90,7 +78,7 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=881afa67ea57b41c1822d745d67559e6&kid=5eaddccd893a47ac8b65f9b31963a3ae&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="Indosiar" group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://drive.google.com/file/d/1LXzt9RtQDqsKXpRuHCqhZIhfp-pAPwtx/view?usp=drive_link", Indosiar
+#EXTINF:-1 tvg-ID="animax.id" tvg-name="Indosiar" group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://www.dropbox.com/scl/fi/pqi1j86qkmnwvozt8j37e/INDOSIAR.png?rlkey=83ukcxsq36iwmu56ickoomqiu&st=ajhzy18g&dl=0", Indosiar
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-referrer=Google
 #EXTVLCOPT:http-accept-encoding=gzip, deflate, br
@@ -104,7 +92,7 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTVLCOPT:http-user-agent=Google
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://drive.google.com/file/d/1LXzt9RtQDqsKXpRuHCqhZIhfp-pAPwtx/view?usp=drive_link" group-title="IPTV Raka WIcaksono ch 1",Indosiar
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.dropbox.com/scl/fi/pqi1j86qkmnwvozt8j37e/INDOSIAR.png?rlkey=83ukcxsq36iwmu56ickoomqiu&st=ajhzy18g&dl=0" group-title="IPTV Raka WIcaksono ch 1",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -113,7 +101,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1LXzt9RtQDqsKXpRuHCqhZIhfp-pAPwtx/view?usp=drive_link" group-title="IPTV Raka WIcaksono ch 1", INDOSIAR alt
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/pqi1j86qkmnwvozt8j37e/INDOSIAR.png?rlkey=83ukcxsq36iwmu56ickoomqiu&st=ajhzy18g&dl=0" group-title="IPTV Raka WIcaksono ch 1", INDOSIAR alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
@@ -121,7 +109,7 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://drive.google.com/file/d/1TYgF9y-aRZuyjWyeXwSPvCVi2yxu0641/view?usp=drive_link",ANTV
+#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://www.dropbox.com/scl/fi/3ujvehiiv1qbpuuwt5z53/ANTV.png?rlkey=2vtgcfldcf67xe2rwycmmfhmy&st=gjlgelep&dl=0",ANTV
 #https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
  
@@ -132,7 +120,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://drive.google.com/file/d/1tWzS6abekKGluzzDWrE5ZZDtqF0zk4vC/view?usp=drive_link", Kompas TV
+#EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://www.dropbox.com/scl/fi/reum1jb6kc0lpc8iyw3ex/KOMPAS-TV.png?rlkey=1o2q6wjb0e3qf7r2gw6klzi7m&st=94l8qd9g&dl=0", Kompas TV
 https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -143,7 +131,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/Pemersa
 #EXTINF: -1 tvg-logo="https://drive.google.com/file/d/1nwWEOyTWRQG4fNGb43r_DRHKYyAeizQj/view?usp=drive_link" group-title="IPTV Raka WIcaksono ch 1",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="transtv" tvg-logo="https://drive.google.com/file/d/1ReeF59jwJKo4EuCGszsKT3yOddUsTRhR/view?usp=drive_link" group-title="IPTV Raka WIcaksono ch 1",Trans TV CDG
+#EXTINF:-1 tvg-id="transtv" tvg-logo="https://www.dropbox.com/scl/fi/ezthule4333hbup27le3p/T7.png?rlkey=pnyig52ihp46uh9jevrsdma6b&st=o9fiuenp&dl=0" group-title="IPTV Raka WIcaksono ch 1",Trans TV CDG
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="IPTV Raka WIcaksono ch 1",Trans 7 CDG 
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
