@@ -65,39 +65,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #EXTINF:-1 group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://www.dropbox.com/scl/fi/f6sh3ptldp11x7zk2qb19/TRANS-TV.png?rlkey=pdvs94c88palztcamo01why8i&st=tpi8kfqo&dl=0",Trans TV
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1lT3v0zhT8tteWFVJxSESHvxp_0B6mmPu/view?usp=drive_link" group-title="IPTV Raka WIcaksono ch 1",SCTV alt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=881afa67ea57b41c1822d745d67559e6&kid=5eaddccd893a47ac8b65f9b31963a3ae&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="Indosiar" group-title="IPTV Raka WIcaksono ch 1" tvg-logo="https://www.dropbox.com/scl/fi/pqi1j86qkmnwvozt8j37e/INDOSIAR.png?rlkey=83ukcxsq36iwmu56ickoomqiu&st=ajhzy18g&dl=0", Indosiar
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.dropbox.com/scl/fi/pqi1j86qkmnwvozt8j37e/INDOSIAR.png?rlkey=83ukcxsq36iwmu56ickoomqiu&st=ajhzy18g&dl=0" group-title="IPTV Raka WIcaksono ch 1",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/pqi1j86qkmnwvozt8j37e/INDOSIAR.png?rlkey=83ukcxsq36iwmu56ickoomqiu&st=ajhzy18g&dl=0" group-title="IPTV Raka WIcaksono ch 1", INDOSIAR alt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono ch 1",SCTV 1 https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono ch 1",SCTV 2 https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono ch 1",INDOSIAR 1 https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono ch 1",INDOSIAR 2 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -137,6 +108,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
  
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="IPTV Raka WIcaksono ch 1",Moji (Indihome)
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono ch 1",MOJIhttps://fmtv-premium.me/denstv/h/h210/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono ch 1",TransTV HDhttps://mangga-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono ch 1",Trans7 HDhttps://mangga-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+#EXTINF:0 tvg-id="rtvint" group-title="IPTV Raka Wicaksono ch 1",RTVhttps://mangga-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 <====================== IPTV Raka WIcaksono Entertainment ======================>
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -370,8 +346,15 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 #EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/012020/moonbug_kids_on_white.png?N15F03k4i.bbYpm4vkwIU0HwhRsSA4YX&itok=zAZIL7t_" group-title="Kids Channels",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Kids Channel",COCOMELON TVhttps://ythls.onrender.com/video/cAskh8mv44E.m3u8
+
 <============================ IPTV Raka Wicaksono Sports ========================>
 
+
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",Sportstars 1 HDhttps://mangga-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",Sportstars 2 HDhttps://mangga-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",Sportstars 3 HDhttps://mangga-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",Sportstars 4 HDhttps://mangga-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -644,30 +627,32 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9px9kvnxtru1w5p/tntsports.png" group-title="IPTV Raka Wicaksono Sports",TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/ssdfduuehudz58x/tsn.png" group-title="IPTV Raka Wicaksono Sports",TSN 1
- 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/ssdfduuehudz58x/tsn.png" group-title="IPTV Raka Wicaksono Sports",TSN 2
- 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/ssdfduuehudz58x/tsn.png" group-title="IPTV Raka Wicaksono Sports",TSN 3
- 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/ssdfduuehudz58x/tsn.png" group-title="IPTV Raka Wicaksono Sports",TSN 4
- 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/ssdfduuehudz58x/tsn.png" group-title="IPTV Raka Wicaksono Sports",TSN 5
- 
-#EXTINF:-1 group-title="IPTV Raka Wicaksono Sports" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png",ESPN 1
-http://assista.pro:80/0333686557/Vilamariante1/134014
- 
-#EXTINF:-1 group-title="IPTV Raka Wicaksono Sports" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png",ESPN 2 
-http://assista.pro:80/0333686557/Vilamariante1/134019
- 
-#EXTINF:-1 group-title="IPTV Raka Wicaksono Sports" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png",ESPN 3
-http://assista.pro:80/0333686557/Vilamariante1/134025
- 
-#EXTINF:-1 group-title="IPTV Raka Wicaksono Sports" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png",ESPN 4
-http://assista.pro:80/0333686557/Vilamariante1/134033
- 
 
+#EXTINF:0 tvg-id="Diema Sport 1" group-title="IPTV Raka Wicaksono Sports",DIEMA SPORT 1 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14249_&extension=ts
+#EXTINF:0 tvg-id="Diema Sport 2" group-title="IPTV Raka Wicaksono Sports",DIEMA SPORT 2 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14250_&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",DIEMA SPORT 3 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=154916&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:0 tvg-id="Digi Sport 1" group-title="IPTV Raka Wicaksono Sports",DIGI SPORT 1 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=802_&extension=ts
+#EXTINF:0 tvg-id="Digi Sport 2" group-title="IPTV Raka Wicaksono Sports",DIGI SPORT 2 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=803_&extension=ts
+#EXTINF:0 tvg-id="Digi Sport 3" group-title="IPTV Raka Wicaksono Sports",DIGI SPORT 3 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=804_&extension=ts
+#EXTINF:0 tvg-id="Digi Sport 4" group-title="IPTV Raka Wicaksono Sports",DIGI SPORT 4 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9180_&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",TRUE SPORTS 1 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115531_&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",TRUE SPORTS 2 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115533_&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",TRUE SPORTS 3 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115537_&extension=ts
 
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",HUB PREMIER 2 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032528&extension=ts&play_token=9AHuedo13h
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",HUB PREMIER 3 http://source.strictv.com:80/play/live.php?
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",HUB PREMIER 4 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032526&extension=ts&play_token=enHys0aCdI
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",HUB PREMIER 5 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032525&extension=ts&play_token=enHys0aCdI
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",HUB PREMIER 6 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032524&extension=ts&play_token=enHys0aCdI
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",HUB PREMIER 7 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032523&extension=ts&play_token=enHys0aCdI
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",HUB SPORTS 1 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110667&extension=ts&play_token=0duhKfW95f
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",HUB SPORTS 2 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110666&extension=ts&play_token=giWRao7Fwn
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",HUB SPORTS 3 http://source.strictv.com:80/play/live.php?
+
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",BEIN SPORTS 1 ENhttps://webudit.webhd.ru/lb/premium161/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",BEIN SPORTS 2 ENhttps://webudit.webhd.ru/lb/premium190/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",BEIN SPORTS 3 ENhttps://webudit.webhd.ru/lb/premium193/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="IPTV Raka Wicaksono Sports",BILLIARD TVhttps://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 <============================ IPTV Raka WIcaksono LIGA EROPA ============================>
 
 #EXTINF:-1 group-title="IPTV Raka WIcaksono LIGA EROPA" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true",LaLiga TV Hypermotion 2
@@ -797,25 +782,54 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="IPTV Raka Wicaksono HBO FMX",Cinemax
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/Cinemax.m3u8
 
-<======================= IPTV Raka Wicaksono Music ==========================>
+<======================= Music Channel ==========================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png" group-title="IPTV Raka Wicaksono Music",Music TV
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png" group-title="Music Channel",Music TV
 https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/681901f0/400d_r32.jpg" group-title="IPTV Raka Wicaksono Music",MTV Live HD
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/681901f0/400d_r32.jpg" group-title="Music Channel",MTV Live HD
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="MTV90s" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/a8d4099d/7ed4_r32.jpg" group-title="IPTV Raka Wicaksono Music",MTV 90's
+#EXTINF:-1 tvg-id="MTV90s" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/a8d4099d/7ed4_r32.jpg" group-title="Music Channel",MTV 90's
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Stingray_Djazz.png" group-title="IPTV Raka Wicaksono Music",Stingray Jazz
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Stingray_Djazz.png" group-title="Music Channel",Stingray Jazz
 https://github.com/mimipipi22/lalajo/raw/main/stingrayjazz.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",UPROXX MUSIC https://ythls.onrender.com/video/05689ErDUdM.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",AQUARIUS MUSIKINDO https://ythls.onrender.com/video/6kLgFnyDqn8.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",THE K-POP https://ythls.onrender.com/video/JVocS7Yftw8.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",NAGASWARA POP https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+#EXTINF:0 tvg-id="vh1-europe" group-title="Music Channel",VH1 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",NAGASWARA DANCEDUT https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",NAGASWARA DANGDUT KOPLO https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+#EXTINF:0 tvg-id="TraceUrban.ru" group-title="Music Channel",TRACE URBAN https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",VEVO 70s https://i.mjh.nz/PlutoTV/5f32f26bcd8aea00071240e5-alt.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",VEVO 80s https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8#EXTINF:0 tvg-id="ext" group-title="⚽ MUSIC",VEVO 90s https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",IMTV  https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",MUSICA STUDIOS https://ythls.onrender.com/video/eF2h5f8_ERU.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",MUSIC TV http://202.147.204.114/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Music Channel",MTV LIVE http://202.147.204.114/live/eds/MTV/sa_dash_vmx/MTV.mpd
+#EXTINF:0 tvg-id="mtv-rocks" group-title="Music Channel",MTV 90s http://202.147.204.114/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",STINGRAY KARAOKE https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",RADIO M2O https://streamcdnr8-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",KPOP TV PLAY https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:0 tvg-id="Now70s.uk" group-title="Music Channel",NOW 70s https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="NOW80s.uk" group-title="Music Channel",NOW 80s https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",NOW ROCK https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="Music Channel",CLUBBING TV https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",CALIFORNIA MUSIC CHANNEL https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",CITRA DANGDUT http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",Citra Dangdut https://github.com/mimipipi22/nontontv/raw/main/FMX/citradangdut.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",Dens ShowBiz http://210.210.155.37/x6bnqe/s/s35/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",NOW 80 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music Channel",NOW ROCK https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
 
